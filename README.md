@@ -1,6 +1,6 @@
 # Coursera-Capstone-Project
 This is an IBM capstone project for the last course (applied data science capstone) of IBM data science professional certificate. 
-In this project we will focus on using the location data to cluster neighborhoods on Toronto city downtown based on top 10 venues for each neighborhood. Obviously this study could helps new people to find their prefered places using their most likely places(recommondation system). 
+In this project we will focus on using the location data to cluster neighborhoods on Toronto city downtown based on top 10 venues for each neighborhood. Obviously this study could help new people to find their preferred places using their most likely places(recommendation system). 
 By Mohamed El-eliem
 
 ## map before clustering
