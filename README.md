@@ -9,3 +9,4 @@ In this project we will focus on using the location data to cluster neighborhood
 
 ## map after clustering
 
+![capstone2](https://user-images.githubusercontent.com/64113527/83592488-fb90fc00-a549-11ea-85cd-e09ac4f587cf.PNG)
